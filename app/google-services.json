@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "510404682684",
+    "firebase_url": "https://project-5507917465549111283.firebaseio.com",
+    "project_id": "project-5507917465549111283",
+    "storage_bucket": "project-5507917465549111283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510404682684:android:d7b30bb2ce28dc3a",
+        "android_client_info": {
+          "package_name": "com.viralandroid.addfirebaseanalyticstoandroidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510404682684-2k6sdek6frrrvo3c6ioopjngvng402jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBRSE-t5EZcdHTmLmIs15yBAOP2qY2ElI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
